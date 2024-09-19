@@ -2,7 +2,7 @@
 https://resilient-horse-4c267a.netlify.app/
 
 
-A simple weather app built using HTML and CSS that provides real-time weather information for any location. The app features a clean and responsive interface, ensuring a seamless user experience on both desktop and mobile devices.
+A weather forecast webpage built using HTML and CSS that provides real-time weather information for any location. The app features a clean and responsive interface, ensuring a seamless user experience on both desktop and mobile devices.
 
 Features
 Real-time Weather Updates: Displays current temperature, weather conditions, and a brief forecast for any location.
